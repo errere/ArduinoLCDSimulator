@@ -1,0 +1,35 @@
+﻿  Adafruit_Caves.cpp
+C:\Users\Administrator\Desktop\a\Adafruit_Caves.cpp(52,20): warning C4101: “temp2”: 未引用的局部变量
+C:\Users\Administrator\Desktop\a\Adafruit_Caves.cpp(52,13): warning C4101: “temp1”: 未引用的局部变量
+  Adafruit_GFX.cpp
+C:\Users\Administrator\Desktop\a\Adafruit_GFX.cpp(1669,43): warning C4267: “参数”: 从“size_t”转换到“int16_t”，可能丢失数据
+C:\Users\Administrator\Desktop\a\Adafruit_GFX.cpp(2152,33): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+C:\Users\Administrator\Desktop\a\Adafruit_GFX.cpp(2350,25): warning C4244: “=”: 从“uint16_t”转换到“uint8_t”，可能丢失数据
+  Adafruit_OpencvDrawable.cpp
+C:\Users\Administrator\Desktop\a\Adafruit_OpencvDrawable.cpp(53,16): warning C4244: “=”: 从“long”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Administrator\Desktop\a\Adafruit_OpencvDrawable.cpp(57,16): warning C4244: “=”: 从“long”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+C:\Users\Administrator\Desktop\a\Adafruit_OpencvDrawable.cpp(61,16): warning C4244: “=”: 从“long”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  ArduinoCoreEmu.cpp
+  EglBasic.cpp
+  Esp32AdafrultEmu1_0.cpp
+  Print.cpp
+C:\Users\Administrator\Desktop\a\Print.cpp(70,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\a\Print.cpp(112,22): warning C4244: “参数”: 从“long”转换到“uint8_t”，可能丢失数据
+C:\Users\Administrator\Desktop\a\Print.cpp(116,31): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Administrator\Desktop\a\Print.cpp(130,22): warning C4244: “参数”: 从“unsigned long”转换到“uint8_t”，可能丢失数据
+C:\Users\Administrator\Desktop\a\Print.cpp(261,16): warning C4244: “初始化”: 从“unsigned long”转换到“char”，可能丢失数据
+  正在生成代码...
+  glcdfont.c
+  Esp32AdafrultEmu1_0.vcxproj -> C:\Users\Administrator\Desktop\a\x64\Debug\Esp32AdafrultEmu1_0.exe

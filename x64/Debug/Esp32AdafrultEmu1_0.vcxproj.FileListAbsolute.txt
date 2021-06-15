@@ -1,0 +1,2 @@
+C:\Users\Administrator\Desktop\Esp32AdafrultEmu1_0\x64\Debug\Esp32AdafrultEmu1_0.exe
+C:\Users\Administrator\Desktop\a\x64\Debug\Esp32AdafrultEmu1_0.exe
